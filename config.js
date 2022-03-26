@@ -18,22 +18,22 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','0','6285748894171']
-global.pemilik = ['6285748894171']
-global.premium = ['6285162634171']
-global.pengguna = 'Nakata'
-global.botnma = 'NahBotz-MD'
-global.footer = 'Nakataa' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/NakataZ' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/nakataaard' //Ubah Jga Bebas Sama lu 
+global.owner = ['6285731855426','0','6285731855426']
+global.pemilik = ['6285731855426']
+global.premium = ['6285731855426']
+global.pengguna = 'Hanz'
+global.botnma = 'HanBotz-MD'
+global.footer = 'Hanz' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'gatau' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'gatau' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'Nakataa'
-global.packname = 'NahBotz'
-global.author = 'NahBotz'
-global.sessionName = 'nahh'
+global.ownernma = 'Han'
+global.packname = 'Han'
+global.author = '6285731855426'
+global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '•'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
@@ -47,7 +47,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 20
 }
 global.thumb = fs.readFileSync('./media/Lycho.jpg')
 
